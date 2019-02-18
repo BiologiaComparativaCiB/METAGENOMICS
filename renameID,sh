@@ -1,0 +1,16 @@
+#!/bin/ksh
+#ls *.gz > lista_archivos
+# buscar .gz en lista_archivos, reemplazar con nada >"lista_archivos_names"
+file="lista_archivos_name"
+#for i in `seq 1 36`;do
+#echo $i
+i=0
+while IFS= read line
+do
+	#mostrar linea 
+	sed -i "s/@/@$i/g" "$line"
+	echo "$line" >>renames
+	i=$(expr $i + 1)
+	echo $i
+done <"$file"
+  
