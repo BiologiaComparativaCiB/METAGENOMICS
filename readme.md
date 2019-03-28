@@ -1,3 +1,5 @@
+Instrucciones 
+
 #Conectarse al servidor de Biotecnología Vegetal
 ssh biologiacomparativa@190.145.98.43 -p 2225 
 
