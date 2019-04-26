@@ -31,13 +31,13 @@ El script se debe modificar para poner las rutas de los archivos de entrada seg√
 
 Para correr los programas en segundo plano en el servidor y poder disponer de la consola mientras el proceso termina se usa una linea de comando como la siguiente
 
-'''nohup R CMD BATCH [ChimerasTaxonomy.R] & '''
+nohup R CMD BATCH [ChimerasTaxonomy.R] &
 
 El nombre del script en parentesis se reemplaza segun la necesidad
 
 ## **Pasos del an√°lisis en DADA"**
 
-![](dada2_proceso.png {width=800px})
+![](dada2_proceso.png)
 
 **_Paso1:_** Filtrado de los datos por calidad
 
