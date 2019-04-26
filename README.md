@@ -37,7 +37,7 @@ El nombre del script en parentesis se reemplaza segun la necesidad
 
 ## **Pasos del análisis en DADA"**
 
-![](dada2_proceso.png = 800X)
+![](dada2_proceso.png {width=800px})
 
 **_Paso1:_** Filtrado de los datos por calidad
 
