@@ -4,8 +4,9 @@ A cotinuación se describe el proceso bioinformático para llevar a cabo los ana
 
 **Tutoriales:**
 Los tutoriales seguidos para este analisis son los siguientes:
-https://benjjneb.github.io/dada2/bigdata_paired.html y
-https://vaulot.github.io/tutorials/Phyloseq_tutorial.html
+
+* https://benjjneb.github.io/dada2/bigdata_paired.html y
+* https://vaulot.github.io/tutorials/Phyloseq_tutorial.html
 
 ## **Datos:**
 
