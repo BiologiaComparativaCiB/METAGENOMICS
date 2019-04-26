@@ -36,11 +36,11 @@ nohup R CMD BATCH [ChimerasTaxonomy.R] &
 
 El nombre del script en parentesis se reemplaza segun la necesidad
 
-## **Pasos del análisis en DADA"**
+## **Pasos del análisis en DADA2**
 
 ![](dada2_proceso.jpg)
 
- * **_Paso1:_** Filtrado de los datos por calidad
+- **_Paso1:_** Filtrado de los datos por calidad
 
 Para este paso se utiliza el script "filtering_PE.R", al correr este script se generan los archivos con los datos limpios para 
 proseguir el análisis. 
