@@ -1,4 +1,4 @@
-#**Analisis de datos de diversidad en suelos usando marcadores 16S e ITS**
+# **Analisis de datos de diversidad en suelos usando marcadores 16S e ITS**
 
 A cotinuación se describe el proceso bioinformático para llevar a cabo los analisis de los datos.
 
