@@ -7,13 +7,13 @@ Los tutoriales seguidos para este analisis son los siguientes:
 https://benjjneb.github.io/dada2/bigdata_paired.html y
 https://vaulot.github.io/tutorials/Phyloseq_tutorial.html
 
-##**Datos:**
+## **Datos:**
 
 Crear una carpeta para cada tipo de datos ie: ITS, 16S
 
 En cada una de las carpetas crea dos subcarpetas para los reads forward y reverse (FW, RV)
 
-##**Programas:** 
+## **Programas:** 
 
 Para llevar a cabo el análisis es necesario tener instalados los paquetes DADA2 y Phyloseq de R.
 Tambien se debe disponer de los scripts aqui disponibles:
@@ -35,7 +35,7 @@ Para correr los programas en segundo plano en el servidor y poder disponer de la
 
 El nombre del script en parentesis se reemplaza segun la necesidad
 
-##**Pasos del análisis en DADA"**
+## **Pasos del análisis en DADA"**
 
 ![](dada2_proceso.png)
 
