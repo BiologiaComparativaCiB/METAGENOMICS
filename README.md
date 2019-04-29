@@ -67,5 +67,8 @@ Entrada:Archivo seqtab.rds y Base de datos para asignación taxonómica (SILVA p
 Salidas: ChimerasTaxonomy.Rout , seqtab_final.rds y tax_final.rds
 
 
+## **Análisis con Phyloseq**
 
+El paquete Phyloseq de R permite hacer análisis estadisticos para la interpretación de los datos obtenidos por Dada2, Permite estimar indices de diversidad, graficar abundancias de taxa deseados en grupos de interés, realizar análisis multivariados para relacionar por ejemplo caracteristicas fisicoquimicas del suelo con la diversidad, hacer análisis de redes. Los datos  se pueden presentar en diagramas de barras o con heatmaps
  
+script: phyloseq_script.R
